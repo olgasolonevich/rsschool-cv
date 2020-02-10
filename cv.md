@@ -24,3 +24,11 @@ p.pdf {
 }
 ```
 ---
+####Education
+- BNTU (Engineering And Pedagogy Faculty)
+- HTML + CSS basics courses (HTML Academy)
+----
+####English
+- A1 (Elementary)
+
+Now I upgrading my english level A2 by studying of the courses.
