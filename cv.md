@@ -1,5 +1,4 @@
 ## Olga Solonevich
----
 #### contact information
 - phone number: +375 44 547 56 79 
 - e-mail: osolonevich@bk.ru
