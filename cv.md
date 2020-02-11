@@ -7,15 +7,15 @@
 My goal is master the course "JavaScript/Front-end". I like learning HTML, CSS and in the future i want to learn javascript. These courses can help me with this. 
 
 ---
-####Skills
+#### Skills
 - HTML, CSS, MySQL
-######small skills
+###### small skills
 - PHP, JavaScript
-######tools
+###### tools
 - Visual Studio Code, phpDesigner 
 
 ---
-####Code examples
+#### Code examples
 ```
 p.pdf {
     background: url(../img/pdf.png) no-repeat left;  
@@ -24,11 +24,11 @@ p.pdf {
 }
 ```
 ---
-####Education
+#### Education
 - BNTU (Engineering And Pedagogy Faculty)
 - HTML + CSS basics courses (HTML Academy)
-----
-####English
+---
+#### English
 - A1 (Elementary)
 
 Now I upgrading my english level A2 by studying of the courses.
